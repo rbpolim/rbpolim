@@ -1,6 +1,6 @@
 ## Be water, my friend!
 
-Olá! Meu nome é Rodrigo, tenho 30 anos e sou aluno da [Rocketseat](https://rocketseat.com.br/), atualmente cursando o Bootcamp Launchbase.
+Olá! Meu nome é Rodrigo, sou aluno da [Rocketseat](https://rocketseat.com.br/) e atualmente cursando o Bootcamp Launchbase.
 
 E-mail p/: rodrigobpolim@gmail.com
 
