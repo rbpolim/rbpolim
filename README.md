@@ -8,7 +8,6 @@ Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href
 I am building a solid foundation in frontend and backend technologies and languages.</p>
 
 </br>
-</br>
 
 Bootcamp | Year | Languages | Status
 |:---:|:---:|:---:|:---:|
