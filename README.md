@@ -8,9 +8,6 @@
 Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href="https://rocketseat.com.br/">Rocketseat</a></strong>. </br>
 I am building a solid foundation in frontend and backend technologies and languages.</p>
 
-
-## 🧑🏻‍🎓
-
 Bootcamp | Year | Languages | Status
 |:---:|:---:|:---:|:---:|
 | :rocket: <a href="https://rocketseat.com.br/">Rocketseat Launchbase</a> | 2020 | Javascript, HTML and CSS | Complete :heavy_check_mark: |
