@@ -9,7 +9,7 @@ I am building a solid foundation in frontend and backend technologies and langua
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![React](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=ReactNative&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DGFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
