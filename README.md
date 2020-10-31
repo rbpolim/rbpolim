@@ -7,7 +7,7 @@ Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href
 I am building a solid foundation in frontend and backend technologies and languages.</p>
 
 Bootcamp | Year | Languages | Status
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Javascript, HTML and CSS | Complete |
 | <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | NodeJS, ReactJS and React Native | In Process | 
 
