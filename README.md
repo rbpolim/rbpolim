@@ -2,16 +2,19 @@
 
 <h3>Welcome to my GitHub page! Here are highlights of my recent projects.</h2>
 
-### About me
 
 <p>I'm Rodrigo from <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a>, Brazil, a Cook graduate who's transitioning into <strong>web/mobile Developer</strong>. </br>
 Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href="https://rocketseat.com.br/">Rocketseat</a></strong>. </br>
 I am building a solid foundation in frontend and backend technologies and languages.</p>
 
+</br>
+</br>
 Bootcamp | Year | Languages | Status
 |:---:|:---:|:---:|:---:|
 | :rocket: <a href="https://rocketseat.com.br/">Rocketseat Launchbase</a> | 2020 | Javascript, HTML and CSS | Complete :heavy_check_mark: |
 | :rocket: <a href="https://rocketseat.com.br/">Rocketseat GoStack</a> | 2020 | NodeJS, ReactJS and React Native | In Process | 
+
+</br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
