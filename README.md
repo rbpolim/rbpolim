@@ -19,9 +19,5 @@ I am building a solid foundation in frontend and backend technologies and langua
 
 Bootcamp | Year | Languages | Status
 |---|---|---|---|
-<a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Complete | ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-<a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | In Process | 
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DGFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
+| <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Complete |
+| <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | In Process | 
