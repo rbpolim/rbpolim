@@ -6,6 +6,11 @@
 Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href="https://rocketseat.com.br/">Rocketseat</a></strong>. </br>
 I am building a solid foundation in frontend and backend technologies and languages.</p>
 
+Bootcamp | Year | Languages | Status
+|---|---|---|---|
+| <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Complete |
+| <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | In Process | 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
@@ -16,8 +21,3 @@ I am building a solid foundation in frontend and backend technologies and langua
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-
-Bootcamp | Year | Languages | Status
-|---|---|---|---|
-| <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Complete |
-| <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | In Process | 
