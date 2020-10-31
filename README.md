@@ -8,8 +8,8 @@ I am building a solid foundation in frontend and backend technologies and langua
 
 Bootcamp | Year | Languages | Status
 |---|---|---|---|
-| <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Complete |
-| <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | In Process | 
+| <a href="https://rocketseat.com.br/">Rocketseat</a> Launcbase | 2020 | Javascript, HTML and CSS | Complete |
+| <a href="https://rocketseat.com.br/">Rocketseat</a> GoStack | 2020 | NodeJS, ReactJS and React Native | In Process | 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
