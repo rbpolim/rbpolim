@@ -1,18 +1,13 @@
-<h1 align="left">Hi, <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h1>
+<h2 align="left">Hi, I'm Polim <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h2>
 
-<h3>Welcome to my GitHub page! Here are highlights of my recent projects.</h2>
+<strong>Welcome to my GitHub page! Here are highlights of my recent projects.</strong>
 
 
-<p>I'm Rodrigo from <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a>, Brazil, a Cook graduate who's transitioning into <strong>web/mobile Developer</strong>. </br>
-Through self-study and enrolling in a coding <strong>GoStack Bootcamp at <a href="https://rocketseat.com.br/">Rocketseat</a></strong>. </br>
-I am building a solid foundation in frontend and backend technologies and languages.</p>
+<p>I'm full stack web/mobile developer. </br>
+I currenty working with ReactJs, Node.js and React Native. </br>
+I am building a solid foundation in frontend and backend technologies, through self-study and enrolling in a <strong>Bootcamp at <a href="https://rocketseat.com.br/">Rocketseat</a></strong>.</p>
 
 </br>
-
-Bootcamp | Year | Languages | Status
-|:---:|:---:|:---:|:---:|
-| :rocket: <a href="https://rocketseat.com.br/">Rocketseat Launchbase</a> | 2020 | Javascript, HTML and CSS | Complete :heavy_check_mark: |
-| :rocket: <a href="https://rocketseat.com.br/">Rocketseat GoStack</a> | 2020 | NodeJS, ReactJS and React Native | In Process | 
 
 </br>
 
