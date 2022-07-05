@@ -16,4 +16,5 @@ I currently work as a frontend developer writing code in *ReactJS & TypeScript*,
 - Storybook
 - Testing/TDD
 - GraphQL
+- Prisma
 - tRPC
