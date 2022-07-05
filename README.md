@@ -4,6 +4,12 @@ I currently work as a frontend developer writing code in *ReactJS & TypeScript*,
 
 ---
 
+## 🧑🏻‍💻 Currently working on:
+
+  - React, Typescript, Tailwind, React-query, RESTful API, React Native, Expo
+
+
+---
 ## 📚 Currently learning:
 
 - NextJS
