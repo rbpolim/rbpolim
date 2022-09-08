@@ -8,7 +8,9 @@ I currently work as a frontend developer writing code in _ReactJS & TypeScript_,
 
 [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas)
 &nbsp;
+
 System Analysis in Software Development (Technician)
+
 &nbsp;
 _AGO 2022 - DEZ 2024_
 
