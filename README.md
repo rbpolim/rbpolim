@@ -6,8 +6,7 @@ I currently work as a frontend developer writing code in _ReactJS & TypeScript_,
 
 ## 🧑‍🎓 Education:
 
-- [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas) <br />
-  System Analysis in Software Development (Technician) <br />
+- [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas) | System Analysis in Software Development (Technician) <br />
   _AGO 2022 - DEZ 2024_
 
 ---
