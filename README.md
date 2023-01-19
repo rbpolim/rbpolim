@@ -13,7 +13,7 @@ I currently work as a frontend developer writing code in _ReactJS & TypeScript_,
 
 ## 🧑🏻‍💻 Currently working on:
 
-- React, Typescript, Tailwind, React-query, RESTful API, React Native, Expo
+- Typescript, Tailwind, React-query, RESTful API, React Native, Expo
 
 ---
 
