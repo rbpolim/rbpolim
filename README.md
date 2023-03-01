@@ -4,23 +4,26 @@ I currently work as a frontend developer writing code in _ReactJS & TypeScript_,
 
 ---
 
-## 🧑‍🎓 Education:
+## 🧑‍🎓 Education
 
-- [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas) - System Analysis in Software Development (Technician) <br />
+- [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas) - System Analysis in Software Development <br />
   _AGO 2022 - DEC 2024_
 
 ---
 
-## 🧑🏻‍💻 Currently working on:
+## 🧑🏻‍💻 Currently working on
 
-- Typescript, Tailwind, React-query, RESTful API, React Native, Expo
+- Typescript; Tailwind; NestJS; React-query; RESTful API; Expo (React Native); Prisma; Storybook; NodeJS; Express; PostgreSQL; Docker; Git; Github; Linux; Figma;
 
 ---
 
-## 📚 Currently learning:
+## 📚 Currently learning
 
 - NextJS
 - Storybook
 - Testing/TDD
-- GraphQL
+- NestJS
 - Prisma
+
+
+
