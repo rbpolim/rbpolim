@@ -13,7 +13,7 @@ I currently work as a frontend developer writing code in _ReactJS & TypeScript_,
 
 ## 🧑🏻‍💻 Currently working on
 
-- Typescript; Tailwind; NestJS; React-query; RESTful API; Expo (React Native); Prisma; Storybook; NodeJS; Express; PostgreSQL; Docker; Git; Github; Linux; Figma;
+- Typescript; Tailwind; NestJS; React-query; RESTful API; Expo (React Native); Prisma; Storybook; NodeJS; Express; PostgreSQL; Docker; Git; Github; Linux; 
 
 ---
 
