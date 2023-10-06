@@ -1,6 +1,6 @@
 # Hi 👋, I'm Polim
 
-<img align="right" width="260" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
