@@ -26,3 +26,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+
+  <p>&nbsp;<img align="end" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" /></p>
