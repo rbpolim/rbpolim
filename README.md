@@ -1,7 +1,5 @@
 # Hi 👋, I'm Polim
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" />
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -10,6 +8,8 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Design Systems.
 
 ### 🛠 &nbsp;Tech Stack
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" />
 
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
