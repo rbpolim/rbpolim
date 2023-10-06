@@ -1,5 +1,7 @@
 # Hi 👋, I'm Polim
 
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" />
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -28,4 +30,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-  <p>&nbsp;<img align="end" src="https://github-readme-stats.vercel.app/api?username=rbpolim&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rbpolim" /></p>
+  
