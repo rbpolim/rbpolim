@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying System Analysis in Software Development at [SENAC](https://www.sp.senac.br/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas).
 - 💼 &nbsp; Working as a Fullstack Development.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Design Systems.
+- 🌱 &nbsp; Learning more about Data Structures and Algorithms, Design Systems, C#.
 
 ### 🛠 &nbsp;Tech Stack
 
